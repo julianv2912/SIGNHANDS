@@ -7,18 +7,20 @@
 
 ## 📖 Descripción del Proyecto
 
-**SignHands** es una aplicación web interactiva cuyo objetivo es enseñar y reforzar el aprendizaje del vocabulario en Lengua de Señas Colombiana (LSC). A través de recursos visuales como imágenes y videos, evaluaciones por niveles, y funcionalidades de usuario, el sistema busca facilitar el acceso a la educación inclusiva, especialmente para personas oyentes que desean aprender LSC.
+**SignHands** 
 
-El proyecto resuelve la necesidad de contar con una herramienta práctica, accesible y gratuita para familiarizarse con la lengua de señas colombiana.
+Es una aplicación web interactiva cuyo objetivo es enseñar y reforzar el aprendizaje del vocabulario en lenguaje de Señas Colombiana (LSC). A través de recursos visuales como imágenes y videos, evaluaciones por niveles, y funcionalidades de usuario, el sistema busca facilitar el acceso a la comunicacion inclusiva mediante este metodo educativo, especialmente para personas oyentes que desean aprender LSC.
+
+El proyecto resuelve la necesidad de contar con una herramienta práctica, accesible y gratuita para familiarizarse con el lenguaje de señas colombiana.
 
 ---
 
 ## 👥 Integrantes del Equipo
 
-- **Maicol Lopez**
-- **John Yate**
-- **Julian Villamarin**
-- **Juan Vargas**
+- **Maicol Stid Lopez Garcia**
+- **John Anderson Yate Agredo**
+- **Oscar Julian Villamarin Wilches**
+- **Juan David Vargas Gonzalez**
 
 ---
 
@@ -31,6 +33,7 @@ El proyecto resuelve la necesidad de contar con una herramienta práctica, acces
 - **MySQL** – Base de datos para usuarios y evaluaciones
 - **AJAX/Fetch API** – Carga dinámica de medios y preguntas
 - **XAMPP / InfinityFree** – Entorno local y servidor web gratuito
+- **GITHUB** – Entorno local utilizado para primera implementacion de HTML, CSS y JS
 
 ---
 
