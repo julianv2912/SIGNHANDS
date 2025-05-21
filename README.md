@@ -41,14 +41,21 @@ El proyecto resuelve la necesidad de contar con una herramienta práctica, acces
 
 ### Requisitos previos
 - Servidor local con PHP y MySQL (XAMPP, WAMP, etc.)
-- Navegador web moderno (Chrome, Firefox, Edge)
+- Navegador web moderno (Chrome, Firefox, Edge, Opera)
 
 ### Pasos
 
 1. Clonar o descargar el repositorio en tu equipo.
 2. Colocar los archivos en la carpeta `htdocs` de XAMPP (o subir al hosting si es en línea).
 3. Importar la base de datos desde un archivo `.sql` si está disponible.
-4. Ejecutar el proyecto desde el navegador:
+4. Ejecutar el proyecto desde el navegador de preferencia.
+
+## Caracteristicas principales
+- Inicio interactivo con informacion y pestañas de navegacion.
+- Botones de login y registro.
+- Seccion con apartados de contenido multimedia y espacio interactivo mediante un foro (Solo podra participar si se encuentra logueado)).
+- Boton de direccionamiento para consulta mas amplia de contenido visual (YOUTUBE).
+- Espacio de evaluaciones para poner a prueba los conocimientos aprendidos.
 
 ```bash
 http://localhost/signhands/index.php
