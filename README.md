@@ -1,7 +1,7 @@
 # SIGN HANDS
 
 ## Nombre del Proyecto
-**SignHands** — Plataforma educativa de aprendizaje en Lengua de Señas Colombiana (LSC)
+**SignHands** — Plataforma educativa para aprendizaje de lenguaje de señas colombiana (LSC)
 
 ---
 
@@ -9,7 +9,7 @@
 
 **SignHands** 
 
-Es una aplicación web interactiva cuyo objetivo es enseñar y reforzar el aprendizaje del vocabulario en lenguaje de Señas Colombiana (LSC). A través de recursos visuales como imágenes y videos, evaluaciones por niveles, y funcionalidades de usuario, el sistema busca facilitar el acceso a la comunicacion inclusiva mediante este metodo educativo, especialmente para personas oyentes que desean aprender LSC.
+Es una aplicación web interactiva cuyo objetivo es enseñar y reforzar el aprendizaje del vocabulario en lenguaje de señas colombiana (LSC). A través de recursos visuales como imágenes y videos, evaluaciones por niveles, y funcionalidades de usuario, el sistema busca facilitar el acceso a la comunicacion inclusiva mediante este metodo educativo, especialmente para personas oyentes que desean aprender LSC.
 
 El proyecto resuelve la necesidad de contar con una herramienta práctica, accesible y gratuita para familiarizarse con el lenguaje de señas colombiana.
 
