@@ -1,11 +1,11 @@
 # SIGN HANDS 🖐📘
 
-## 📌 Nombre del Proyecto
+## Nombre del Proyecto
 **SignHands** — Plataforma educativa de aprendizaje en Lengua de Señas Colombiana (LSC)
 
 ---
 
-## 📖 Descripción del Proyecto
+## Descripción del Proyecto
 
 **SignHands** 
 
@@ -15,7 +15,7 @@ El proyecto resuelve la necesidad de contar con una herramienta práctica, acces
 
 ---
 
-## 👥 Integrantes del Equipo
+## Integrantes del Equipo
 
 - **Maicol Stid Lopez Garcia**
 - **John Anderson Yate Agredo**
@@ -24,7 +24,7 @@ El proyecto resuelve la necesidad de contar con una herramienta práctica, acces
 
 ---
 
-## 💻 Tecnologías Utilizadas
+## Tecnologías Utilizadas
 
 - **HTML5** – Maquetación y estructura del sitio
 - **CSS3** – Estilos y diseño responsivo
@@ -37,13 +37,13 @@ El proyecto resuelve la necesidad de contar con una herramienta práctica, acces
 
 ---
 
-## 🚀 Instrucciones de Ejecución
+## Instrucciones de Ejecución
 
-### 🖥️ Requisitos previos
+### Requisitos previos
 - Servidor local con PHP y MySQL (XAMPP, WAMP, etc.)
 - Navegador web moderno (Chrome, Firefox, Edge)
 
-### 🛠️ Pasos
+### Pasos
 
 1. Clonar o descargar el repositorio en tu equipo.
 2. Colocar los archivos en la carpeta `htdocs` de XAMPP (o subir al hosting si es en línea).
