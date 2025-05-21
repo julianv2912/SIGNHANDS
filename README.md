@@ -1,4 +1,4 @@
-# SIGN HANDS 🖐📘
+# SIGN HANDS
 
 ## Nombre del Proyecto
 **SignHands** — Plataforma educativa de aprendizaje en Lengua de Señas Colombiana (LSC)
